@@ -1,0 +1,17 @@
+/*#Use CSS.
+
+Add class to cardSpot in HTML: cardStyle;
+
+Make the card slightly larger when the user hovers over it.
+*/
+
+.cardStyle {
+	border: 1px solid red;
+	padding: 3em;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.cardStyle:hover {
+	font-size: 1.2em;
+}
